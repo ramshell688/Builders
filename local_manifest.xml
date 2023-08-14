@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/light" name="ramshell688/device_xiaomi_camellia.git" remote="github" revision="lights"/>
+
+</manifest>
